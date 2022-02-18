@@ -1,2 +1,2 @@
 # CursoFrontEnd-LaunchX
-Notas y ejercicios contestados por @danielalmolina
+Notas y ejercicios contestados por @danielalmolina de Launch X.
